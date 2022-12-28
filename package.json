@@ -11,10 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^0.3.3",
+    "@11ty/eleventy": "^1.0.2",
     "@11ty/eleventy-cache-assets": "^2.3.0",
     "browser-sync": "^2.11.2",
     "gs": "^0.0.2",
+    "liquidjs": "^10.3.3",
     "moment": "^2.29.4",
     "xmlhttprequest": "^1.8.0",
     "yargs": "^17.6.2",
